@@ -9,6 +9,8 @@
     "bixby-common": "^0.1.3",
     "bixby-crane": "github:bixbyjs/bixby-crane#feature/bootable",
     "bixby-ms": "github:bixbyjs/bixby-ms",
+    "bixby-ms-amqp": "github:bixbyjs/bixby-ms-amqp",
+    "bixby-ms-zeromq": "github:bixbyjs/bixby-ms-zeromq",
     "crane": "^0.2.0",
     "dotenv": "^6.0.0"
   },

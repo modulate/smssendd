@@ -4,7 +4,7 @@ exports = module.exports = function(send) {
   
   var service = crane();
   
-  service.work('my-sub-linkback', send);
+  service.work('test-linkback', send);
     
   return service;
 };
